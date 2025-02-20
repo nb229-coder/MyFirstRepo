@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# MyFirstRepo
-My first repository in GitHub
-=======
-"# MyFirstRepo" 
-"# MyFirstRepo"
->>>>>>> efd2604 (first commit)
+# My First Repo
+## Practicing the pull command
+This is my initial edition from GitHub.
